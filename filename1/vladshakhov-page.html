@@ -1,0 +1,11 @@
+    edit_map_road:
+        trigger_text: TEXT
+        switch:
+            - calendar.working_hours:
+                args: [Mon-Sun, '09:00-22:00']
+                choice: edit_map_road_working
+            - default:
+                choice: edit_map_road_not_working
+        timeout_disabled: true
+        start_button_disabled: true
+        back_button_disabled: true
