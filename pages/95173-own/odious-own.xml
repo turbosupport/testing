@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <!--created with www.maxim-m.ru-->
+ <rss xmlns:yandex="http://news.yandex.ru" xmlns:media="http://search.yahoo.com/mrss/"
+ xmlns:turbo="http://turbo.yandex.ru" version="2.0">
+ <channel>
+ <turbo:cms_plugin>MaxImco Genarator</turbo:cms_plugin>
+ <title>Чайная культура Китая</title>
+ <link>https://www.islandgift.ru</link>
+ <description>description undefined</description>
+ <language>ru</language>
+ <author>https://www.islandgift.ru</author>
+ <yandex:analytics type="Yandex" id="000000"/>
+<item turbo="true">
+<title>Чайная культура Китая</title><link>https://www.islandgift.ru</link><category>Официальный сайт</category>
+<turbo:content><![CDATA[<header><menu><a href='https://www.islandgift.ru'>Главная</a></menu></header>
+<h1>Зарождение культуры чая в Китае</h1>
+<h2>Как чай попал в Китай</h2>
+<p>Китай — родина чая. Это первая страна, где начали производить чай и где впервые в мире обнаружили чайные деревья и научились использовать чайные листья.
+Древние китайцы, собиравшие дикие травы и плоды, обнаружили, что листочки чайных кустов, заваренные в кипятке, способны утолить жажду. Но вначале чайные листья использовали как лекарство, его называли «горькой травой».
+Чай стал повседневным напитком уже 3–4 тыс. лет назад в провинции Сычуань (древнее царство Чу). После объединения Китая императором Цинь Шихуаном чай стали пить и в других регионах Китая.
+В 729 году чай попал в Японию, где рассматривался в качестве драгоценного напитка. Приблизительно в 17 веке обычай пить чай распространился в Корею, Индонезию и Индию.</p>
+<img src="https://sun9-25.userapi.com/impg/TKJFAJgRVk-a8V1Rd3r09l4Tkk8PxbzJYMiQ_w/4y5kHGfuBUY.jpg?size=1280x852&quality=96&sign=13560991bd81f0ee276b729978b7ee9a&c_uniq_tag=98WI-vvAcQ1XerlJTvbBhP7JD4yyBM4lb1-bJCfCclI&type=album
+" >
+<turbo:content><![CDATA[<header><menu><a href='https://www.islandgift.ru'>Главная</a></menu></header>
+ <p>Страница сгенерирована с помощью <a href="https://www.maxim-m.ru/tools/y-turbo">сервиса Maxim-M</a></p><p>Контактные данные<br>Сайт разработчика:<a href="https://www.maxim-m.ru/tools/y-turbo">maxim-m.ru</a></p>
+ <div data-block="widget-feedback" data-stick="false">
+ <div data-block="chat" data-type="vkontakte" data-url="https://vk.com/islandgift"></div> <div data-block="chat" data-type="whatsapp" data-url="https://api.whatsapp.com/send?phone=79092813520"></div>
+ <div data-block="chat" data-type="telegram" data-url="http://t.me/max36895"></div>
+ <div data-block="chat" data-type="facebook" data-url="https://www.facebook.com/groups/islandgift"></div>
+ <div data-block="chat" data-type="viber" data-url="viber://chat?number=79092813520"></div>
+ <div data-block="chat" data-type="google" data-url="http://plus.google.com/communities/118237901655250343991"></div>
+ <div data-block="chat" data-type="twitter" data-url="https://twitter.com/strelocmax36895"></div> </div>
+ ]]></turbo:content></item></channel></rss>
